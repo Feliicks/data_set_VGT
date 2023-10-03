@@ -673,6 +673,3 @@
 "698";"0.56";"6.26";"19.90";"41.00";"2023-09-01";"3"
 "699";"0.57";"6.29";"19.90";"41.00";"2023-09-01";"3"
 "700";"0.54";"6.32";"19.90";"41.00";"2023-09-01";"3"
-"id_est";"fecha_instalacion";"nombre";"zona";"ciudad";"departamento";"latitud_longitud";"estado"
-"3";"2023-06-01";"Hacia el mar";"Urbanizacion Villa Mariscal Jose Ballivian";"Viacha";"La Paz";;"Activo"
-<div class="alert alert-danger" role="alert"><img src="themes/dot.gif" title="" alt="" class="icon ic_s_error"> TypeError: Return value of PhpMyAdmin\Encoding::convertString() must be of the type string, bool returned</div></body></html>
