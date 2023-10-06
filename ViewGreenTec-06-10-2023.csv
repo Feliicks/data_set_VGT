@@ -1,4 +1,4 @@
-﻿id,turbidez,ph,temperatura,humedad,fecha,id_est,,
+id,turbidez,ph,temperatura,humedad,fecha,id_est,,
 27,0.43,5.62,13.30,32.00,2023-06-06,3,,
 28,0.44,5.16,13.30,32.00,2023-06-06,3,,
 29,0.43,4.34,13.30,32.00,2023-06-06,3,,
@@ -1804,14 +1804,14 @@
 1829,3.27,8.72,NULL,NULL,2020-09-07,14,,
 1830,3.94,8.35,NULL,NULL,2020-09-08,14,,
 1831,5.03,6.28,NULL,NULL,2020-09-09,14,,
-id,nombre,fecha,,,,,,
-id_est,fecha_instalacion,nombre,zona,ciudad,departamento,estado,latitud,longitud
-3,2023-06-01,Hacia el mar,Urbanizacion Villa Mariscal Jose Ballivian,Viacha,La Paz,Activo,-16.607927,-68.259301
-8,2023-06-12,Final Los Andes,Final Los Andes,El Alto,La Paz,Activo,-16.4936200,-68.1859109
-9,2023-06-13,Rio Seco,Rio Seco,El Alto,La Paz,Activo,-16.4936090,-68.1859105
-10,2023-06-13,La Florida,La Florida,El Alto,La Paz,Activo,-16.4936368,-68.1859103
-11,2023-10-05,mapeo1,,,,,,
-12,2023-10-05,mapeo2,,,,,,
-13,2023-10-05,mapeo3,,,,,,
-14,2023-10-05,mapeo4,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
 ,,,,,,,,
